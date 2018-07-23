@@ -63,3 +63,24 @@ header nav a:hover {
 	text-align: center;
 	font-size: 30px;
 }
+
+nav-bottom {
+  text-align: center;
+  text-decoration: none;
+}
+
+nav-bottom a {
+   background: #DCC7A3;
+   padding: 5px;
+   color: white;
+}
+
+nav-bottom a:hover {
+  background: #BDBDBD;
+  transition:.3s;
+  padding: 10px;
+}
+
+nav-bottom ul li {
+  display: inline;
+}
