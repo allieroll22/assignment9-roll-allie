@@ -31,3 +31,21 @@ header nav a:hover {
  padding: 200px 0;
  text-align: center;
 }
+
+.container {
+	max-width: none;
+	margin: 0;
+}
+
+.photo-section {
+	padding: 10px 0;
+}
+
+.photo-section h1 {
+	text-align: center;
+	font-size: 50px;
+}
+.photo-section p::first-line {
+	text-align:center;
+	font-size:40px;
+}
