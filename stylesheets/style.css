@@ -23,4 +23,11 @@ header nav a:hover {
 	color: black;
 }
 
- 
+/* Hero Image Background */
+.hero-image-section {
+ background-image: url("../images/sunrise.png");
+ background-attachment: fixed;
+ background-size: cover;
+ padding: 200px 0;
+ text-align: center;
+}
