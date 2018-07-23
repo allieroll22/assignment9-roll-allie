@@ -1,0 +1,24 @@
+header {
+	background: #DCC7A3;
+	padding: 5px 0;
+	position: fixed;
+	left: 0;
+	right: 0;
+}
+
+header nav ul li {
+	display: inline;
+}
+
+header nav a {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 26px;
+	margin: 0 10px;
+}
+
+/* Pseudo Class */
+header nav a:hover {
+	color: black;
+}
