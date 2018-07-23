@@ -49,3 +49,17 @@ header nav a:hover {
 	text-align:center;
 	font-size:40px;
 }
+
+.pages {
+	display:inline-block;
+	width:410px;
+}
+
+.pages img {
+	width:400px;
+}
+
+.ink {
+	text-align: center;
+	font-size: 30px;
+}
